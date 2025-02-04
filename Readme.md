@@ -32,7 +32,7 @@ The model that I choose is **SVM** with results is 0.77 on test data
 1. First, you can clone the repo using the following command:
 
 ```sh
-   git clone https://github.com/rahmaha/mlzoomcamp-midterm.git
+   git clone https://github.com/rahmaha/yt-comment_sentiment-analysis.git
 ```
 
 or click at the `code button` and chose download zip
